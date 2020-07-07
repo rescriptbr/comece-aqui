@@ -12,7 +12,7 @@
 
 ## 📝 Artigos
 
--
+- [Todo list with revery](https://dev.to/rjmurtagh/use-your-react-skills-to-build-a-true-native-application-with-reasonml-15ij)
 
 ## 📚 Livros
 
