@@ -54,7 +54,7 @@
 - Gabriel Abreu ([Twitter](https://twitter.com/fakenickels))
 - Marcos "vmarcosp" ([Twitter](https://twitter.com/vmaarcosp), [GitHub](https://github.com/vmarcosp))
 - Ciro ([Twitter](https://twitter.com/cironunesdev))
-- 
+- Weslen ([Twitter](https://twitter.com/theweslenng), [GitHub](https://github.com/weslenng))
 
 ## 🚀 Cursos
 
