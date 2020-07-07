@@ -1,5 +1,8 @@
 <h1 align="center"> Quer aprender ReasonML? Comece aqui :camel:</h1>
 <div align="center">
+<br />
+<br />
+<br />
  <p align="center">
     <img src="logo.svg" width="350" alt="COVIDBR Logo" />
   </p>
@@ -9,6 +12,10 @@
  <a target="_blank" href="https://discord.com/invite/SSDMNYQ">Discord</a> •
  <a target="_blank" href="t.me/reasonmlbrasil">Telegram</a> 
 </p>
+<br />
+<br />
+<br />
+
 </div>
 
 ## 📄 Docs Oficiais
