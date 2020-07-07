@@ -1,4 +1,15 @@
-# ReasonBR | Comece aqui
+<h1 align="center"> Quer aprender ReasonML? Comece aqui :camel:</h1>
+<div align="center">
+ <p align="center">
+    <img src="logo.svg" width="350" alt="COVIDBR Logo" />
+  </p>
+<p align="center">
+ <a target="_blank" href="https://twitter.com/reasonmlbrasil">Twitter</a> • 
+ <a target="_blank" href="https://confy.app/organization/reasonbr-7890">Meetup</a> •
+ <a target="_blank" href="https://discord.com/invite/SSDMNYQ">Discord</a> •
+ <a target="_blank" href="t.me/reasonmlbrasil">Telegram</a> 
+</p>
+</div>
 
 ## 📄 Docs Oficiais
 
