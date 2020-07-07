@@ -42,3 +42,8 @@
 - ES2077 (@fakenickels)
 - The one from egghead.io
 
+## 🚧 Projetos de exemplo
+
+- [Todo list in revery](https://github.com/enieber/revery-todo/)
+- [Blog Nextjs and Reason](https://github.com/enieber/blog)
+
