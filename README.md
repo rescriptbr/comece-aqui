@@ -1,4 +1,4 @@
-# Reason | Comece aqui
+# ReasonBR | Comece aqui
 
 ## 📄 Docs Oficiais
 
@@ -8,6 +8,8 @@
 - [Revery by Outrunlabs Company](https://www.outrunlabs.com/revery/api/revery/)
 
 ## 🎥 Videos
+- [O que é ReasonML?](https://www.youtube.com/watch?v=tNgyRo2fhwU)
+	- Talk sobre "O que é ReasonML?", aborda tópicos básicos e faz introdução ao ecossistema ReasonML/OCaml
 - [ReasonML Pomodoro Timer with React Hooks](https://www.youtube.com/watch?v=8ftCqZ2-7cQ)
 	- Faz o uso de `useReducer` e algum `pattern matching` no processo.
 - [Weather App in ReasonML and React](https://www.youtube.com/watch?v=H6X6AJZna98)
@@ -24,17 +26,23 @@
 ## 📝 Artigos
 
 - [Todo list with revery](https://dev.to/rjmurtagh/use-your-react-skills-to-build-a-true-native-application-with-reasonml-15ij)
-
+- [O que é e por que utilizar ReasonML? Parte 1](https://blog.blumenaujs.org/o-que-e-e-por-que-utilizar-reasonml-parte-1)
+ 	- _Introdução sobre o que é ReasonML, seu ecossistema e os ambientes_
+- [O que é e por que utilizar ReasonML? Parte 2](https://blog.blumenaujs.org/o-que-e-e-por-que-utilizar-reasonml-parte-2)
+	- _Artigo sobre porque você deveria adotar ReasonML ao invés de TypeScript ou Flow. Artigo completo sobre o básico de ReasonML, cobrindo tópicos como Pattern Matching, Variants, Funções e etc_
 ## 📚 Livros
 
--
+- [Exploring ReasonML](http://reasonmlhub.com/exploring-reasonml/toc.html)
+	- Livro muito completo sobre ReasonML, pode ser considerado um guia prático.
+- [Type-Driven Development with ReasonML](https://www.amazon.com/Learn-Type-Driven-Development-applications/dp/1788838017)
+	- O livro ensina como desenvolver software guiado a tipos com ReasonML. Aborda diversos detalhes interessantes sobre como a linguagem se comporta e como o sistema de tipos te guia a modelar seu software.
 
 ## 🤓 Pessoas
 
-- Eduardo (Twitter, Twitch)
-- Gabriel Abreu (Twitter
-- Marcos (Twitter)
-- Ciro (Twitter)
+- Eduardo ([Twitter](https://twitter.com/TheEduardoRFS), [Twitch](https://twitch.tv/eduardorfs))
+- Gabriel Abreu ([Twitter](https://twitter.com/fakenickels))
+- Marcos "vmarcosp" ([Twitter](https://twitter.com/vmaarcosp), [GitHub](https://github.com/vmarcosp))
+- Ciro ([Twitter](https://twitter.com/cironunesdev))
 - 
 
 ## 🚀 Cursos
