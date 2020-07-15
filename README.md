@@ -10,7 +10,7 @@
  <a target="_blank" href="https://twitter.com/reasonmlbrasil">Twitter</a> • 
  <a target="_blank" href="https://confy.app/organization/reasonbr-7890">Meetup</a> •
  <a target="_blank" href="https://discord.com/invite/SSDMNYQ">Discord</a> •
- <a target="_blank" href="t.me/reasonmlbrasil">Telegram</a> 
+ <a target="_blank" href="https://t.me/reasonmlbrasil">Telegram</a> 
 </p>
 <br />
 <br />
