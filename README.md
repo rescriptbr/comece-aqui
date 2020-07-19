@@ -84,3 +84,7 @@
 - [FlashLink](https://github.com/andrelmlins/flashlink)
 - [Get Shit Done](https://github.com/cironunes/gsd)
 
+## ❓Perguntas? 
+
+Caso tenha alguma pergunta sobre sintaxe, ou comportamental de reasonml, [basta abrir uma issue](https://github.com/reasonbrazil/comece-aqui/issues/new)
+
