@@ -86,5 +86,5 @@
 
 ## ❓Perguntas? 
 
-Caso tenha alguma pergunta sobre sintaxe, ou comportamental de reasonml, [basta abrir uma issue](https://github.com/reasonbrazil/comece-aqui/issues/new)
+Caso surja alguma dúvida sobre sintxe, erros, bindings e etc [basta abrir uma issue](https://github.com/reasonbrazil/comece-aqui/issues/new)
 
