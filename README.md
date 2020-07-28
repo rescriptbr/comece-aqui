@@ -25,6 +25,10 @@
 - [BuckleScript by Reason Association](https://reasonml.org/docs/reason-compiler/latest/introduction)
 - [Revery by Outrunlabs Company](https://www.outrunlabs.com/revery/api/revery/)
 
+## 📝 Cheat Sheets e Cookbooks
+
+- [BuckleScript Bindings Cookbook - vários exemplos de bindings](https://github.com/yawaramin/bucklescript-bindings-cookbook)
+
 
 ## 🎥 Videos
 
