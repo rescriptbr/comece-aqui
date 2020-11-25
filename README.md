@@ -72,7 +72,7 @@
 - Marcos "vmarcosp" ([Twitter](https://twitter.com/vmaarcosp), [GitHub](https://github.com/vmarcosp))
 - Ciro ([Twitter](https://twitter.com/cironunesdev))
 - Weslen ([Twitter](https://twitter.com/theweslenng), [GitHub](https://github.com/weslenng))
-- André Lins([Twitter](https://twitter.com/andrelmlins), [GitHub](https://github.com/andrelmlins))
+- André Lins ([Twitter](https://twitter.com/andrelmlins), [GitHub](https://github.com/andrelmlins))
 
 ## 🚀 Cursos
 
@@ -87,8 +87,9 @@
 - [Blog Nextjs and Reason](https://github.com/enieber/blog)
 - [FlashLink](https://github.com/andrelmlins/flashlink)
 - [Get Shit Done](https://github.com/cironunes/gsd)
+- [Pomodoro](https://github.com/tkovs/pomodoro)
 
 ## ❓Perguntas? 
 
-Caso surja alguma dúvida sobre sintxe, erros, bindings e etc [basta abrir uma issue](https://github.com/reasonbrazil/comece-aqui/issues/new)
+Caso surja alguma dúvida sobre sintaxe, erros, bindings e etc [basta abrir uma issue](https://github.com/reasonbrazil/comece-aqui/issues/new)
 
