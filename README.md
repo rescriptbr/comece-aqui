@@ -88,6 +88,7 @@
 - [FlashLink](https://github.com/andrelmlins/flashlink)
 - [Get Shit Done](https://github.com/cironunes/gsd)
 - [Pomodoro](https://github.com/tkovs/pomodoro)
+- [findr](https://github.com/vmarcosp/findr)
 
 ## ❓Perguntas? 
 
