@@ -4,7 +4,7 @@
 <br />
 <br />
  <p align="center">
-    <img src="logo.svg" width="350" alt="COVIDBR Logo" />
+    <img src="logo.svg" width="350" alt="ReasonBR Logo" />
   </p>
 <p align="center">
  <a target="_blank" href="https://twitter.com/reasonmlbrasil">Twitter</a> • 
