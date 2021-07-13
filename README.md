@@ -90,11 +90,11 @@
 - [Timerlab](https://github.com/vmarcosp/timerlab)
 
 ## 💡 Dúvidas frequentes? 
-- Qual a diferença entre ReasonML, BuckleScript e ReScript?
-  [Leia mais sobre o rebranding entre ReasonML e ReScript](https://rescript-lang.org/blog/bucklescript-is-rebranding)
+- **Qual a diferença entre ReasonML, BuckleScript e ReScript?**
+ 	> _[Leia mais sobre o rebranding entre ReasonML e ReScript](https://rescript-lang.org/blog/bucklescript-is-rebranding)_
 
-- Alguns conteúdos (artigos, vídeos, livros) utilizam a síntaxe ReasonML ao invés da síntaxe ReScript, devo usar a síntaxe ReasonML ou a síntaxe ReScript?
- _Anteriormente o compilador do ReScript (BuckleScript) utilizava a sintaxe ReasonML. Com o rebranding, o ReScript passou a ter sua própria sintaxe, no entanto a sintaxe ReasonML ainda é e será suportada por um bom tempo, mas o ideal é que você utilize a sintaxe ReScript em seus novos projetos e/ou migre os seus projetos para a nova sintaxe quando possível.
+-**Alguns conteúdos (artigos, vídeos, livros) utilizam a síntaxe ReasonML ao invés da síntaxe ReScript, devo usar a síntaxe ReasonML ou a síntaxe ReScript?**
+	> _Anteriormente o compilador do ReScript (BuckleScript) utilizava a sintaxe ReasonML. Com o rebranding, o ReScript passou a ter sua própria sintaxe, no entanto a sintaxe ReasonML ainda é e será suportada por um bom tempo, mas o ideal é que você utilize a sintaxe ReScript em seus novos projetos e/ou migre os seus projetos para a nova sintaxe quando possível._
  
 
 ## ❓Perguntas? 
