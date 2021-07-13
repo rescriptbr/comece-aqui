@@ -1,16 +1,14 @@
-<h1 align="center"> Quer aprender ReasonML? Comece aqui :camel:</h1>
+<h1 align="center"> Quer aprender ReScript? Comece aqui 🚀</h1>
 <div align="center">
 <br />
 <br />
 <br />
  <p align="center">
-    <img src="logo.svg" width="750" alt="ReasonBR Logo" />
+    <img src="V1.svg" width="750" alt="ReScriptBR Logo" />
   </p>
 <p align="center">
- <a target="_blank" href="https://twitter.com/reasonmlbrasil">Twitter</a> • 
- <a target="_blank" href="https://confy.app/organization/reasonbr-7890">Meetup</a> •
- <a target="_blank" href="https://discord.com/invite/SSDMNYQ">Discord</a> •
- <a target="_blank" href="https://t.me/reasonmlbrasil">Telegram</a> 
+ <a target="_blank" href="https://twitter.com/rescriptbr">Twitter</a> • 
+ <a target="_blank" href="https://discord.com/invite/SSDMNYQ">Discord</a> 
 </p>
 <br />
 <br />
@@ -18,39 +16,40 @@
 
 </div>
 
-## 📄 Docs Oficiais
+## 📄 Sites & Docs Oficiais
 
-- [Reason by Reason Association](https://reasonml.org/docs/manual/latest/introduction)
-- [ReasonReact by Reason Association](https://reasonml.org/docs/reason-react/latest/introduction)
-- [BuckleScript by Reason Association](https://reasonml.org/docs/reason-compiler/latest/introduction)
-- [Revery by Outrunlabs Company](https://www.outrunlabs.com/revery/api/revery/)
+- [Documentação ReScript](https://rescript-lang.org/)
+- [Documentação ReScriptReact](https://rescript-lang.org/docs/react/latest/introduction)
+- [Fórum Oficial ReScript](https://forum.rescript-lang.org/)
+- [ReScript Association](https://rescript-association.org/)
 
 ## 📝 Cheat Sheets e Cookbooks
 
-- [BuckleScript Bindings Cookbook - vários exemplos de bindings](https://github.com/yawaramin/bucklescript-bindings-cookbook)
+- [ReScript Bindings Cookbook - Vários exemplos de bindings](https://github.com/yawaramin/bucklescript-bindings-cookbook/blob/master/ReScript.md)
 
 
 ## 🎥 Videos
 
-- [O que é ReasonML?](https://www.youtube.com/watch?v=tNgyRo2fhwU)
-	- Talk sobre "O que é ReasonML?", aborda tópicos básicos e faz introdução ao ecossistema ReasonML/OCaml
-- [ReasonML Pomodoro Timer with React Hooks](https://www.youtube.com/watch?v=8ftCqZ2-7cQ)
+- [Rescript e React na prática](https://www.youtube.com/watch?v=pGA1RfNiGho)
+- [ReScript: O ECMAScript 2077](https://www.youtube.com/watch?v=Hoed0aZGbJY)
+- [Um servidor com ES77(ReScript](https://www.youtube.com/watch?v=_VfCjh31okk)
+- [Playlist: Construindo uma aplicação utilizando ReScript e React](https://www.youtube.com/watch?v=hDratuXnfAo&list=PLr4c053wuXU_V-lMfFmDz9yWD5nw_lv_p)
+- [O que é O que é ReasonML/ReScript?](https://www.youtube.com/watch?v=tNgyRo2fhwU)
+	- Talk sobre "O que é ReasonML/ReScript?", aborda tópicos básicos e faz introdução ao ecossistema ReScript.
+- [ReScript Pomodoro Timer with React Hooks](https://www.youtube.com/watch?v=8ftCqZ2-7cQ)
 	- Faz o uso de `useReducer` e algum `pattern matching` no processo.
-- [Weather App in ReasonML and React](https://www.youtube.com/watch?v=H6X6AJZna98)
-	- Bom para ter um entendimento inicial de como fazer fetch em API's usando Reason.
-- [ReasonML, Next.js and Apollo Hooks blog](https://www.youtube.com/watch?v=ag4nUteMwkU&list=PLtDL321SUTJiC2BqrSUzoxozH138y4uhM&index=1)
-	- Tutorial bem completo de uma integração de ReasonML com Next, Apollo Hooks e AWS Appsync.
+- [Weather App in ReScript and React](https://www.youtube.com/watch?v=H6X6AJZna98)
+	- Bom para ter um entendimento inicial de como fazer fetch em API's usando ReScript.
+- [ReScript (ReasonML & BuckleScript), Next.js and Apollo Hooks blog](https://www.youtube.com/watch?v=ag4nUteMwkU&list=PLtDL321SUTJiC2BqrSUzoxozH138y4uhM&index=1)
+	- Tutorial bem completo de uma integração de ReScript com Next, Apollo Hooks e AWS Appsync.
 - [ReasonML Bootcamp: day one](https://www.youtube.com/watch?v=F2rfxtoZpB0)
-	- Tutorial excelente no core da linguagem. Recomenda-se 1.5 de velocidade no vídeo.
-- [RC017 -- Reason Native with Esy](https://www.youtube.com/watch?v=gz7lfte8cIc)
-	-  Canal e vídeo excelentes abordando Reason Native.
-- [How to set up webpack for ReasonML and React](https://www.youtube.com/watch?v=0CMmML7Q6Ds)
-	- Setup inicial para usar Reason com Reason-React.
-
+	- Tutorial excelente no core da linguagem.
+- [How to set up webpack for ReScript and React](https://www.youtube.com/watch?v=0CMmML7Q6Ds)
+	- Setup inicial para usar ReScript com ReScriptReact.
+- [ReScript (ReasonML) levado a sério](https://www.youtube.com/watch?v=8Qi_ZoXc2CI)
 
 ## 📝 Artigos
 
-- [Todo list with revery](https://dev.to/rjmurtagh/use-your-react-skills-to-build-a-true-native-application-with-reasonml-15ij)
 - [O que é e por que utilizar ReasonML? Parte 1](https://blog.blumenaujs.org/o-que-e-e-por-que-utilizar-reasonml-parte-1)
  	- _Introdução sobre o que é ReasonML, seu ecossistema e os ambientes_
 - [O que é e por que utilizar ReasonML? Parte 2](https://blog.blumenaujs.org/o-que-e-e-por-que-utilizar-reasonml-parte-2)
@@ -60,9 +59,9 @@
 ## 📚 Livros
 
 - [Exploring ReasonML](http://reasonmlhub.com/exploring-reasonml/toc.html)
-	- Livro muito completo sobre ReasonML, pode ser considerado um guia prático.
+	_Livro muito completo sobre ReasonML, pode ser considerado um guia prático. Apesar de ser escrito utilizando a síntaxe "antiga" que é ReasonML, todo o conteúdo do livro é válido._
 - [Type-Driven Development with ReasonML](https://www.amazon.com/Learn-Type-Driven-Development-applications/dp/1788838017)
-	- O livro ensina como desenvolver software guiado a tipos com ReasonML. Aborda diversos detalhes interessantes sobre como a linguagem se comporta e como o sistema de tipos te guia a modelar seu software.
+	_O livro ensina como desenvolver software guiado a tipos com ReasonML. Aborda diversos detalhes interessantes sobre como a linguagem se comporta e como o sistema de tipos te guia a modelar seu software. Apesar de ser escrito utilizando a síntaxe "antiga" que é ReasonML, todo o conteúdo do livro é válido._
 
 
 ## 🤓 Pessoas
@@ -78,19 +77,27 @@
 
 - [ES2077 by @fakenickels 🇧🇷](https://es77.fakenickels.dev/)
 - [Learn ReasonML](https://learnreasonml.com/)
-- [Get Started with Reason](https://egghead.io/courses/get-started-with-reason)
-
+  _O curso utiliza a síntaxe ReasonML, mas serve como um guia para os iniciantes_
+- [Get Started with ReasonML](https://egghead.io/courses/get-started-with-reason)
+  _O curso utiliza a síntaxe ReasonML, mas serve como um guia para os iniciantes_
 
 ## 🚧 Projetos de exemplo
 
-- [Todo list in revery](https://github.com/enieber/revery-todo/)
 - [Blog Nextjs and Reason](https://github.com/enieber/blog)
 - [FlashLink](https://github.com/andrelmlins/flashlink)
 - [Get Shit Done](https://github.com/cironunes/gsd)
 - [Pomodoro](https://github.com/tkovs/pomodoro)
-- [findr](https://github.com/vmarcosp/findr)
+- [Timerlab](https://github.com/vmarcosp/timerlab)
+
+## 💡 Dúvidas frequentes? 
+- Qual a diferença entre ReasonML, BuckleScript e ReScript?
+  [Leia mais sobre o rebranding entre ReasonML e ReScript](https://rescript-lang.org/blog/bucklescript-is-rebranding)
+
+- Alguns conteúdos (artigos, vídeos, livros) utilizam a síntaxe ReasonML ao invés da síntaxe ReScript, devo usar a síntaxe ReasonML ou a síntaxe ReScript?
+ _Anteriormente o compilador do ReScript (BuckleScript) utilizava a sintaxe ReasonML. Com o rebranding, o ReScript passou a ter sua própria sintaxe, no entanto a sintaxe ReasonML ainda é e será suportada por um bom tempo, mas o ideal é que você utilize a sintaxe ReScript em seus novos projetos e/ou migre os seus projetos para a nova sintaxe quando possível.
+ 
 
 ## ❓Perguntas? 
 
-Caso surja alguma dúvida sobre sintaxe, erros, bindings e etc [basta abrir uma issue](https://github.com/reasonbrazil/comece-aqui/issues/new)
+Caso surja alguma dúvida sobre sintaxe, erros, bindings e etc [basta abrir uma issue](https://github.com/rescriptbr/comece-aqui/issues/new)
 
