@@ -93,8 +93,9 @@
 - **Qual a diferença entre ReasonML, BuckleScript e ReScript?**
  	> _[Leia mais sobre o rebranding entre ReasonML e ReScript](https://rescript-lang.org/blog/bucklescript-is-rebranding)_
 
--**Alguns conteúdos (artigos, vídeos, livros) utilizam a síntaxe ReasonML ao invés da síntaxe ReScript, devo usar a síntaxe ReasonML ou a síntaxe ReScript?**
+- **Alguns conteúdos (artigos, vídeos, livros) utilizam a síntaxe ReasonML ao invés da síntaxe ReScript, devo usar a síntaxe ReasonML ou a síntaxe ReScript?**
 	> _Anteriormente o compilador do ReScript (BuckleScript) utilizava a sintaxe ReasonML. Com o rebranding, o ReScript passou a ter sua própria sintaxe, no entanto a sintaxe ReasonML ainda é e será suportada por um bom tempo, mas o ideal é que você utilize a sintaxe ReScript em seus novos projetos e/ou migre os seus projetos para a nova sintaxe quando possível._
+
 - **Onde estão os materiais relacionados a ReasonML e OCaml anteriormente listados aqui neste guia?**
 	> Após o rebranding, esse guia foi atualizado e alterado para agrupar somente materiais relacionados a ReScript. Se você procura pela versão anterior com os conteúdos relacionados a OCaml/ReasonML você pode encontrá-los [aqui](https://gist.github.com/vmarcosp/72c782d8e36044ce8706127c443bd5fe).
 
