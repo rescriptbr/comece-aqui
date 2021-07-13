@@ -34,7 +34,7 @@
 - [ReScript: O ECMAScript 2077](https://www.youtube.com/watch?v=Hoed0aZGbJY)
 - [Um servidor com ES77(ReScript](https://www.youtube.com/watch?v=_VfCjh31okk)
 - [Playlist: Construindo uma aplicação utilizando ReScript e React](https://www.youtube.com/watch?v=hDratuXnfAo&list=PLr4c053wuXU_V-lMfFmDz9yWD5nw_lv_p)
-- [O que é O que é ReasonML/ReScript?](https://www.youtube.com/watch?v=tNgyRo2fhwU)
+- [O que é ReasonML/ReScript?](https://www.youtube.com/watch?v=tNgyRo2fhwU)
 	- Talk sobre "O que é ReasonML/ReScript?", aborda tópicos básicos e faz introdução ao ecossistema ReScript.
 - [ReScript Pomodoro Timer with React Hooks](https://www.youtube.com/watch?v=8ftCqZ2-7cQ)
 	- Faz o uso de `useReducer` e algum `pattern matching` no processo.
@@ -50,9 +50,9 @@
 
 ## 📝 Artigos
 
-- [O que é e por que utilizar ReasonML? Parte 1](https://blog.blumenaujs.org/o-que-e-e-por-que-utilizar-reasonml-parte-1)
+- [O que é e por que utilizar ReScript? Parte 1](https://blog.blumenaujs.org/o-que-e-e-por-que-utilizar-reasonml-parte-1)
  	- _Introdução sobre o que é ReasonML, seu ecossistema e os ambientes_
-- [O que é e por que utilizar ReasonML? Parte 2](https://blog.blumenaujs.org/o-que-e-e-por-que-utilizar-reasonml-parte-2)
+- [O que é e por que utilizar ReScript? Parte 2](https://blog.blumenaujs.org/o-que-e-e-por-que-utilizar-reasonml-parte-2)
 	- _Artigo sobre porque você deveria adotar ReasonML ao invés de TypeScript ou Flow. Artigo completo sobre o básico de ReasonML, cobrindo tópicos como Pattern Matching, Variants, Funções e etc_
 
 
