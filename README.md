@@ -26,7 +26,7 @@ No entanto, é possível utilizar esses conteúdos para estudar ReScript, tendo 
 > :bulb: Leia mais sobre a diferença entre ReasonML e ReScript, e o rebranding da linguagem [aqui](https://rescript-lang.org/blog/bucklescript-is-rebranding).
 
 Se você estiver utilizando algum material escrito em ReasonML e deseja converter os snippets de código para a síntaxe do ReScript, você pode fazer a conversão de duas formas:
-- Converter o código utilizando o playground no site [oficial do ReScript](https://rescript-lang.org/try). Se precisar de ajuda, utilize o [video](./converter-reasonml.mp4) que gravamos com o passo a passo.
+- Converter o código utilizando o playground no site [oficial do ReScript](https://rescript-lang.org/try). Se precisar de ajuda, utilize o [video](https://github.com/rescriptbr/comece-aqui/issues/17) que gravamos com o passo a passo.
 Funciona muito bem para testar snippets simples e códigos que você encontra em cursos ou talks.
 
 - Converter os arquivos do projeto que estão na sintaxe antiga (`.re`) em arquivos na sintaxe nova (`.res`). Para isso você pode utilizar a própria cli do ReScript conforme a [documentação oficial](https://rescript-lang.org/docs/manual/latest/migrate-from-bucklescript-reason#upgrade-your-codebase).
@@ -108,7 +108,7 @@ Funciona muito bem para testar snippets simples e códigos que você encontra em
 - [Get Shit Done](https://github.com/cironunes/gsd)
 - [Pomodoro](https://github.com/tkovs/pomodoro)
 - [Timerlab](https://github.com/vmarcosp/timerlab)
-- [Conduit](https://github.com/rescriptbr/conduit): Projeto incompleto mas possui vários exemplos de formulários, bindings, data fetching, react-query, reform, ancestor, storybook, etc
+- [Conduit](https://github.com/rescriptbr/conduit): Apesar de estar incompleto, possui vários exemplos de formulários, bindings, data fetching, react-query, reform, ancestor, storybook, etc
 
 ## 💡 Dúvidas frequentes? 
 - **Qual a diferença entre ReasonML, BuckleScript e ReScript?**
