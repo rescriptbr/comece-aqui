@@ -21,11 +21,11 @@ Este guia é mantido pela comunidade ReScript Brasil e tem como objetivo reunir 
 
 O guia é open-source, portanto, todos podem contribuir adicionando novos materiais, basta [criar um fork deste](https://github.com/rescriptbr/comece-aqui/fork) repositório e abrir um pull request adicionando suas sugestões.
 
-Ao navegar pelos materiais deste guia, você irá perceber que alguns dos materiais estão utilizando a síntaxe _ReasonML_ (a síntaxe utilizada anteriormente pelo ReScript). 
-No entanto, é possível utilizar esses conteúdos para estudar ReScript, tendo em vista que essa síntaxe ainda é compatível com a linguagem.
+Ao navegar pelos materiais deste guia, você irá perceber que alguns dos materiais estão utilizando a sintaxe _ReasonML_ (a sintaxe utilizada anteriormente pelo ReScript). 
+No entanto, é possível utilizar esses conteúdos para estudar ReScript, tendo em vista que essa sintaxe ainda é compatível com a linguagem.
 > :bulb: Leia mais sobre a diferença entre ReasonML e ReScript, e o rebranding da linguagem [aqui](https://rescript-lang.org/blog/bucklescript-is-rebranding).
 
-Se você estiver utilizando algum material escrito em ReasonML e deseja converter os snippets de código para a síntaxe do ReScript, você pode fazer a conversão de duas formas:
+Se você estiver utilizando algum material escrito em ReasonML e deseja converter os snippets de código para a sintaxe do ReScript, você pode fazer a conversão de duas formas:
 - Converter o código utilizando o playground no site [oficial do ReScript](https://rescript-lang.org/try). Se precisar de ajuda, utilize o [video](https://github.com/rescriptbr/comece-aqui/issues/17) que gravamos com o passo a passo.
 Funciona muito bem para testar snippets simples e códigos que você encontra em cursos ou talks.
 
