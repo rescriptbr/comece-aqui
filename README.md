@@ -68,9 +68,18 @@ Funciona muito bem para testar snippets simples e códigos que você encontra em
 
 ## 📝 Artigos
 
-- [O que é e por que utilizar ReScript? Parte 1](https://blog.blumenaujs.org/o-que-e-e-por-que-utilizar-reasonml-parte-1): _Introdução sobre o que é ReasonML, seu ecossistema e os ambientes_
-- [O que é e por que utilizar ReScript? Parte 2](https://blog.blumenaujs.org/o-que-e-e-por-que-utilizar-reasonml-parte-2): _Artigo sobre porque você deveria adotar ReasonML ao invés de TypeScript ou Flow. Artigo completo sobre o básico de ReasonML, cobrindo tópicos como Pattern Matching, Variants, Funções e etc_
-
+- [O que é e por que utilizar ReScript? Parte 1](https://blog.blumenaujs.org/o-que-e-e-por-que-utilizar-reasonml-parte-1): Introdução sobre o que é ReasonML, seu ecossistema e os ambientes
+- [O que é e por que utilizar ReScript? Parte 2](https://blog.blumenaujs.org/o-que-e-e-por-que-utilizar-reasonml-parte-2): Artigo sobre porque você deveria adotar ReasonML ao invés de TypeScript ou Flow. Artigo completo sobre o básico de ReasonML, cobrindo tópicos como Pattern Matching, Variants, Funções e etc
+- [Rescript, Reason, Typescript, OCAML, Javascript, Help Me Choose!](https://dusty.phillips.codes/2021/12/18/rescript-reason-typescript-ocaml-javascript-help-me-choose/)
+- [Let's Talk About Functors In Rescript](https://dusty.phillips.codes/2021/09/18/lets-talk-about-functors-in-rescript/)
+- [Fun With Rescript Polymorphic Variants](https://dusty.phillips.codes/2021/09/06/fun-with-rescript-polymorphic-variants/)
+- [Parsing JSON in Rescript](https://dusty.phillips.codes/2021/08/14/parsing-json-in-rescript/)
+- [Lazy Loading Images With ReScript](https://alexfedoseev.com/blog/post/lazy-loading-images-with-rescript)
+- [Cool Things You Can Do with First-Class Modules in ReScriptReact](https://alexfedoseev.com/blog/post/cool-things-you-can-do-with-first-class-modules-in-rescript-react)
+- [Safe Routing in ReScript](https://alexfedoseev.com/blog/post/safe-routing-in-rescript)
+- [Safe Identifiers in ReScript](https://alexfedoseev.com/blog/post/safe-identifiers-in-rescript)
+- [Eliminating Illegal State in ReScript](https://alexfedoseev.com/blog/post/eliminating-illegal-state-in-rescript)
+- [ReScript Modules](https://alexfedoseev.com/blog/post/rescript-modules)
 
 ## 📚 Livros
 
