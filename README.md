@@ -59,7 +59,7 @@
 ## 📚 Livros
 
 - [Exploring ReasonML](http://reasonmlhub.com/exploring-reasonml/toc.html)
-	_Livro muito completo sobre ReasonML, pode ser considerado um guia prático. Apesar de ser escrito utilizando a síntaxe "antiga" que é ReasonML, todo o conteúdo do livro é válido._
+	_Livro muito completo sobre ReasonML, pode ser considerado um guia prático. Apesar de ser escrito utilizando a síntaxe "antiga" que é ReasonML, todo o conteúdo do livro é válido e reaproveitável._
 - [Type-Driven Development with ReasonML](https://www.amazon.com/Learn-Type-Driven-Development-applications/dp/1788838017)
 	_O livro ensina como desenvolver software guiado a tipos com ReasonML. Aborda diversos detalhes interessantes sobre como a linguagem se comporta e como o sistema de tipos te guia a modelar seu software. Apesar de ser escrito utilizando a síntaxe "antiga" que é ReasonML, todo o conteúdo do livro é válido._
 
@@ -75,7 +75,7 @@
 
 ## 🚀 Cursos
 
-- [ES2077 by @fakenickels 🇧🇷](https://es77.fakenickels.dev/)
+- [EcmaScript2077🇧🇷](https://es77.dev/)
 - [Learn ReasonML](https://learnreasonml.com/)
   _O curso utiliza a síntaxe ReasonML, mas serve como um guia para os iniciantes_
 - [Get Started with ReasonML](https://egghead.io/courses/get-started-with-reason)
