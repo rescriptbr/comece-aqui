@@ -25,14 +25,14 @@
 
 ## 📝 Cheat Sheets e Cookbooks
 
-- [ReScript Bindings Cookbook - Vários exemplos de bindings](https://github.com/yawaramin/bucklescript-bindings-cookbook/blob/master/ReScript.md)
+- [ReScript Bindings Cookbook - Vários exemplos de bindings](https://github.com/rescriptbr/rescript-bindings-cookbook)
 
 
 ## 🎥 Videos
 
 - [Rescript e React na prática](https://www.youtube.com/watch?v=pGA1RfNiGho)
 - [ReScript: O ECMAScript 2077](https://www.youtube.com/watch?v=Hoed0aZGbJY)
-- [Um servidor com ES77(ReScript](https://www.youtube.com/watch?v=_VfCjh31okk)
+- [Um servidor com ES77 (ReScript)](https://www.youtube.com/watch?v=_VfCjh31okk)
 - [Playlist: Construindo uma aplicação utilizando ReScript e React](https://www.youtube.com/watch?v=hDratuXnfAo&list=PLr4c053wuXU_V-lMfFmDz9yWD5nw_lv_p)
 - [O que é ReasonML/ReScript?](https://www.youtube.com/watch?v=tNgyRo2fhwU)
 	- Talk sobre "O que é ReasonML/ReScript?", aborda tópicos básicos e faz introdução ao ecossistema ReScript.
@@ -84,11 +84,13 @@
 
 ## 🚧 Projetos de exemplo
 
-- [Blog Nextjs and Reason](https://github.com/enieber/blog)
+- [Blog construido com Nextjs e ReScript (ReasonML)](https://github.com/enieber/olha-oque-fiz)
 - [FlashLink](https://github.com/andrelmlins/flashlink)
 - [Get Shit Done](https://github.com/cironunes/gsd)
 - [Pomodoro](https://github.com/tkovs/pomodoro)
 - [Timerlab](https://github.com/vmarcosp/timerlab)
+- [Conduit](https://github.com/rescriptbr/conduit)
+  _Incompleto mas com vários exemplos de form, API, react-query, reform, ancestor, storybook, etc_
 
 ## 💡 Dúvidas frequentes? 
 - **Qual a diferença entre ReasonML, BuckleScript e ReScript?**
