@@ -16,6 +16,32 @@
 
 </div>
 
+## 💡 Como utilizar este guia
+Este guia é mantido pela comunidade ReScript Brasil e tem como objetivo reunir cursos, vídeos, artigos, livros e qualquer outro material que possa te ajudar a iniciar sua jornada de aprendizado em ReScript.
+
+O guia é open-source, portanto, todos podem contribuir adicionando novos materiais, basta [criar um fork deste](https://github.com/rescriptbr/comece-aqui/fork) repositório e abrir um pull request adicionando suas sugestões.
+
+Ao navegar pelos materiais deste guia, você irá perceber que alguns dos materiais estão utilizando a síntaxe _ReasonML_ (a síntaxe utilizada anteriormente pelo ReScript). 
+No entanto, é possível utilizar esses conteúdos para estudar ReScript, tendo em vista que essa síntaxe ainda é compatível com a linguagem.
+> :bulb: Leia mais sobre a diferença entre ReasonML e ReScript, e o rebranding da linguagem [aqui](https://rescript-lang.org/blog/bucklescript-is-rebranding).
+
+Se você estiver utilizando algum material escrito em ReasonML e deseja converter os snippets de código para a síntaxe do ReScript, você pode fazer a conversão de duas formas:
+- Converter o código utilizando o playground no site [oficial do ReScript](https://rescript-lang.org/try). Se precisar de ajuda, utilize o [video](./converter-reasonml.mp4) que gravamos com o passo a passo.
+Funciona muito bem para testar snippets simples e códigos que você encontra em cursos ou talks.
+
+- Converter os arquivos do projeto que estão na sintaxe antiga (`.re`) em arquivos na sintaxe nova (`.res`). Para isso você pode utilizar a própria cli do ReScript conforme a [documentação oficial](https://rescript-lang.org/docs/manual/latest/migrate-from-bucklescript-reason#upgrade-your-codebase).
+
+## 🔍 Menu
+- [📄 Sites & Docs Oficiais](#-sites--docs-oficiais)
+- [📝 Cheat Sheets e Cookbooks](#-cheat-sheets-e-cookbooks)
+- [🎥 Videos](#-videos)
+- [📝 Artigos](#-artigos)
+- [📚 Livros](#-livros)
+- [🤓 Pessoas da comunidade](#-pessoas-da-comunidade-para-seguir-no-twitter)
+- [🚀 Cursos](#-cursos)
+- [🚧 Projetos de exemplo](#-projetos-de-exemplo)
+- [💡 Dúvidas frequentes?](#-dúvidas-frequentes)
+ 
 ## 📄 Sites & Docs Oficiais
 
 - [Documentação ReScript](https://rescript-lang.org/)
@@ -25,35 +51,25 @@
 
 ## 📝 Cheat Sheets e Cookbooks
 
-- [ReScript Bindings Cookbook - Vários exemplos de bindings](https://github.com/rescriptbr/rescript-bindings-cookbook)
-
+- [ReScript Bindings Cookbook](https://github.com/rescriptbr/rescript-bindings-cookbook):  O guia mais completo sobre interoperabilidade e criação de bindings em ReScript.
 
 ## 🎥 Videos
 
-- [Rescript e React na prática](https://www.youtube.com/watch?v=pGA1RfNiGho)
-- [ReScript: O ECMAScript 2077](https://www.youtube.com/watch?v=Hoed0aZGbJY)
-- [Um servidor com ES77 (ReScript)](https://www.youtube.com/watch?v=_VfCjh31okk)
-- [Playlist: Construindo uma aplicação utilizando ReScript e React](https://www.youtube.com/watch?v=hDratuXnfAo&list=PLr4c053wuXU_V-lMfFmDz9yWD5nw_lv_p)
-- [O que é ReasonML/ReScript?](https://www.youtube.com/watch?v=tNgyRo2fhwU)
-	- Talk sobre "O que é ReasonML/ReScript?", aborda tópicos básicos e faz introdução ao ecossistema ReScript.
-- [ReScript Pomodoro Timer with React Hooks](https://www.youtube.com/watch?v=8ftCqZ2-7cQ)
-	- Faz o uso de `useReducer` e algum `pattern matching` no processo.
-- [Weather App in ReScript and React](https://www.youtube.com/watch?v=H6X6AJZna98)
-	- Bom para ter um entendimento inicial de como fazer fetch em API's usando ReScript.
-- [ReScript (ReasonML & BuckleScript), Next.js and Apollo Hooks blog](https://www.youtube.com/watch?v=ag4nUteMwkU&list=PLtDL321SUTJiC2BqrSUzoxozH138y4uhM&index=1)
-	- Tutorial bem completo de uma integração de ReScript com Next, Apollo Hooks e AWS Appsync.
-- [ReasonML Bootcamp: day one](https://www.youtube.com/watch?v=F2rfxtoZpB0)
-	- Tutorial excelente no core da linguagem.
-- [How to set up webpack for ReScript and React](https://www.youtube.com/watch?v=0CMmML7Q6Ds)
-	- Setup inicial para usar ReScript com ReScriptReact.
-- [ReScript (ReasonML) levado a sério](https://www.youtube.com/watch?v=8Qi_ZoXc2CI)
+- [ReScript e React na prática](https://www.youtube.com/watch?v=pGA1RfNiGho): Talk com live coding sobre utilizar ReScript e React.
+- [ReScript: O EcmaScript 2077](https://www.youtube.com/watch?v=Hoed0aZGbJY): Talk introdutória sobre ReScript.
+- [Um servidor com ES77 (ReScript)](https://www.youtube.com/watch?v=_VfCjh31okk): Talk sobre utilizar ReScript no servidor com NodeJs.
+- [Playlist: Construindo uma aplicação utilizando ReScript e React](https://www.youtube.com/watch?v=hDratuXnfAo&list=PLr4c053wuXU_V-lMfFmDz9yWD5nw_lv_p): Playlist de vídeos construindo uma aplicação real com ReScript e React.
+- [O que é ReasonML(ReScript)?](https://www.youtube.com/watch?v=tNgyRo2fhwU): Talk introdutória sobre a linguagem. Aborda tópicos básicos e faz introdução ao ecossistema ReScript.
+- [ReScript Pomodoro Timer with React Hooks](https://www.youtube.com/watch?v=8ftCqZ2-7cQ): Construção de um pomodoro timer utilizando ReScript e React. Utiliza `useReducer` e pattern matching em vários momentos.
+- [Weather App in ReScript and React](https://www.youtube.com/watch?v=H6X6AJZna98): Construção de um weather app utilizando ReScript. Muito bom para ter um entendi inicial sobre data fetching e fetch API com ReScript.
+- [ReScript, Next.js and Apollo Hooks blog](https://www.youtube.com/watch?v=ag4nUteMwkU&list=PLtDL321SUTJiC2BqrSUzoxozH138y4uhM&index=1): Tutorial bem completo de uma integração de ReScript com Next, Apollo Hooks e AWS Appsync.
+- [How to set up webpack for ReScript and React](https://www.youtube.com/watch?v=0CMmML7Q6Ds): Setup inicial para usar ReScript com ReScriptReact.
+- [ReScript (ReasonML) levado a sério](https://www.youtube.com/watch?v=8Qi_ZoXc2CI): Talk introdutória sobre ReScript.
 
 ## 📝 Artigos
 
-- [O que é e por que utilizar ReScript? Parte 1](https://blog.blumenaujs.org/o-que-e-e-por-que-utilizar-reasonml-parte-1)
- 	- _Introdução sobre o que é ReasonML, seu ecossistema e os ambientes_
-- [O que é e por que utilizar ReScript? Parte 2](https://blog.blumenaujs.org/o-que-e-e-por-que-utilizar-reasonml-parte-2)
-	- _Artigo sobre porque você deveria adotar ReasonML ao invés de TypeScript ou Flow. Artigo completo sobre o básico de ReasonML, cobrindo tópicos como Pattern Matching, Variants, Funções e etc_
+- [O que é e por que utilizar ReScript? Parte 1](https://blog.blumenaujs.org/o-que-e-e-por-que-utilizar-reasonml-parte-1): _Introdução sobre o que é ReasonML, seu ecossistema e os ambientes_
+- [O que é e por que utilizar ReScript? Parte 2](https://blog.blumenaujs.org/o-que-e-e-por-que-utilizar-reasonml-parte-2): _Artigo sobre porque você deveria adotar ReasonML ao invés de TypeScript ou Flow. Artigo completo sobre o básico de ReasonML, cobrindo tópicos como Pattern Matching, Variants, Funções e etc_
 
 
 ## 📚 Livros
@@ -63,24 +79,27 @@
 - [Type-Driven Development with ReasonML](https://www.amazon.com/Learn-Type-Driven-Development-applications/dp/1788838017)
 	_O livro ensina como desenvolver software guiado a tipos com ReasonML. Aborda diversos detalhes interessantes sobre como a linguagem se comporta e como o sistema de tipos te guia a modelar seu software. Apesar de ser escrito utilizando a síntaxe "antiga" que é ReasonML, todo o conteúdo do livro é válido._
 
+## 📦 Cursos
 
-## 🤓 Pessoas
+- [EcmaScript2077 🇧🇷](https://es77.dev/): _Curso completo de ReScript_
+- [Learn ReasonML](https://learnreasonml.com/): _O curso utiliza a síntaxe ReasonML, mas serve como um guia para os iniciantes_
+- [Get Started with ReasonML](https://egghead.io/courses/get-started-with-reason): _O curso utiliza a síntaxe ReasonML, mas serve como um guia para os iniciantes_
 
-- Eduardo ([Twitter](https://twitter.com/TheEduardoRFS), [Twitch](https://twitch.tv/eduardorfs))
-- Gabriel Abreu ([Twitter](https://twitter.com/fakenickels))
-- Marcos "vmarcosp" ([Twitter](https://twitter.com/vmaarcosp), [GitHub](https://github.com/vmarcosp))
-- Ciro ([Twitter](https://twitter.com/cironunesdev))
-- Weslen ([Twitter](https://twitter.com/theweslenng), [GitHub](https://github.com/weslenng))
-- André Lins ([Twitter](https://twitter.com/andrelmlins), [GitHub](https://github.com/andrelmlins))
+## 🐦 Pessoas da comunidade para seguir no Twitter
 
-## 🚀 Cursos
-
-- [EcmaScript2077 🇧🇷](https://es77.dev/) 
-  _Curso completo de ReScript_
-- [Learn ReasonML](https://learnreasonml.com/)
-  _O curso utiliza a síntaxe ReasonML, mas serve como um guia para os iniciantes_
-- [Get Started with ReasonML](https://egghead.io/courses/get-started-with-reason)
-  _O curso utiliza a síntaxe ReasonML, mas serve como um guia para os iniciantes_
+- [Hongbo Zhang](https://twitter.com/bobzhang1988): Criador do ReScript compiler.
+- [Patrick Ecker](https://twitter.com/ryyppy): Membro do core team do ReScript. Trabalha ativamente na documentação oficial.
+- [Cristiano Calcagno](https://twitter.com/ccrisccris): Membro do core team do ReScript. Trabalhava ativamente no compilador.
+- [Maxim](https://twitter.com/_binary_search): Membro do core team do ReScript. 
+- [zth](https://twitter.com/___zth___): Mantenedor de projetos importantes do ecossistema como [rescript-relay](https://github.com/zth/rescript-relay).
+- [Ricky Vetter](https://twitter.com/rickyvetter): Membro do core team do ReScript.
+- [fakenickels](https://twitter.com/fakenickels): Mago do ReScript 🧙. Criador de várias libs como [ReForm](https://github.com/rescriptbr/reform) e co-criador do curso [EcmaScript2077](https://es77.dev).
+- [Marcos Oliveira](https://twitter.com/vmaarcosp): Organizador da comunidade ReScript Brasil e co-criador do curso [EcmaScript2077](https://es77.dev).
+- [Diogo Mafra](https://twitter.com/diogomafra_): Moderador da comunidade ReScript Brasil.
+- [Jaap Frolich](https://twitter.com/JaapFrolich): Mantenedor do [graphql-ppx](https://github.com/teamwalnut/graphql-ppx)
+- [Ciro](https://twitter.com/cironunesdev)
+- [Weslen](https://twitter.com/theweslenng)
+- [André Lins](https://twitter.com/andrelmlins)
 
 ## 🚧 Projetos de exemplo
 
@@ -89,8 +108,7 @@
 - [Get Shit Done](https://github.com/cironunes/gsd)
 - [Pomodoro](https://github.com/tkovs/pomodoro)
 - [Timerlab](https://github.com/vmarcosp/timerlab)
-- [Conduit](https://github.com/rescriptbr/conduit)
-  _Incompleto mas com vários exemplos de form, API, react-query, reform, ancestor, storybook, etc_
+- [Conduit](https://github.com/rescriptbr/conduit): Projeto incompleto mas possui vários exemplos de formulários, bindings, data fetching, react-query, reform, ancestor, storybook, etc
 
 ## 💡 Dúvidas frequentes? 
 - **Qual a diferença entre ReasonML, BuckleScript e ReScript?**
