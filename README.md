@@ -75,7 +75,8 @@
 
 ## 🚀 Cursos
 
-- [EcmaScript2077🇧🇷](https://es77.dev/)
+- [EcmaScript2077 🇧🇷](https://es77.dev/) 
+  _Curso completo de ReScript_
 - [Learn ReasonML](https://learnreasonml.com/)
   _O curso utiliza a síntaxe ReasonML, mas serve como um guia para os iniciantes_
 - [Get Started with ReasonML](https://egghead.io/courses/get-started-with-reason)
